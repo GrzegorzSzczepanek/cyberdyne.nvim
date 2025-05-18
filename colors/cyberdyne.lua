@@ -1,5 +1,3 @@
--- ~/.config/nvim/colors/cyberdyne.lua
-
 -- Set this to enable true color support
 vim.opt.termguicolors = true
 -- Set the name of your colorscheme
