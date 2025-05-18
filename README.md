@@ -1,6 +1,6 @@
 # Cyberdyne.nvim
 
-A dark, futuristic, cyber-themed colorscheme for Neovim.
+A dark, futuristic, cyber-themed colorscheme for Neovim. Its purpose is to match the default theme from Ghostty called Cyberdyne.
 
 <p align="center">
   <img width="1470" alt="image" src="https://github.com/user-attachments/assets/7fe49109-cf9b-4e13-b95c-42f7e12c9e83" />
